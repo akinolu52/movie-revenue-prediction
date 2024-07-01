@@ -2,6 +2,15 @@
 
 We try to predict movie revenue.
 
+Several things to note
+
+- `variable_name` to name a variable eg `revenue_in_usd`
+- `function_name` to name a function eg `def get_revenue_in_usd`
+- `Class ClassName` to name a class eg `Class TextWrangler`
+- let's write more function so we can re-use it
+- let's keep the function name, Class name and variable name explanatory enough
+  <br />
+
 1. Project Setup and Data Collection: ✅
     - 1.1 Set up your Jupyter notebook ✅
     - 1.2 Scrape or pull data from online resources ✅
