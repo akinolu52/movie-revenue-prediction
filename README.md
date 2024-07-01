@@ -18,8 +18,8 @@ Several things to note
     - 1.3 Load the data into your notebook ✅ <br /><br />
 
 2. Exploratory Data Analysis (EDA):
-    - 2.1 Initial data inspection (shape, info, describe)
-    - 2.2 Generate and save pandas profiling report
+    - 2.1 Initial data inspection (shape, info, describe) ✅
+    - 2.2 Generate and save pandas profiling report ✅
     - 2.3 Visualize data distributions ('IMDB Rating', 'Budget', 'Gross Worldwide', 'Runtime')
     - 2.4 Explore relationships between 'Gross Worldwide' and other variables
     - 2.5 Analyze categorical data ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres')
