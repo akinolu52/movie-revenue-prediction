@@ -38,10 +38,10 @@ Several things to note
     - 3.5 Compare and discuss outcomes of outlier treatments<br /><br />
 
 4. Feature Engineering:
-    - 4.1 Encode categorical variables ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres' etc)
-    - 4.2 Extract features from 'Storyline' using NLP techniques (optional)
-    - 4.3 Create new features if applicable (e.g., director/star popularity, genre combinations) (optional)
-    - 4.4 Normalize/standardize numerical features if needed<br /><br />
+    - 4.1 Encode categorical variables ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres' etc)✅
+    - 4.2 Extract features from 'Storyline' using NLP techniques (optional)✅
+    - 4.3 Create new features if applicable (e.g., director/star popularity, genre combinations) (optional) ✅
+    - 4.4 Normalize/standardize numerical features if needed<br /><br /> 
 
 5. Feature Selection:
     - 5.1 Identify most important features for predicting 'Gross Worldwide' / revenue_in_usd
