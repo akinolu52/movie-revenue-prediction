@@ -20,9 +20,9 @@ Several things to note
 2. Exploratory Data Analysis (EDA):
     - 2.1 Initial data inspection (shape, info, describe) ✅
     - 2.2 Generate and save pandas profiling report ✅
-    - 2.3 Visualize data distributions ('IMDB Rating', 'Budget', 'Gross Worldwide', 'Runtime')
-    - 2.4 Explore relationships between 'Gross Worldwide' and other variables
-    - 2.5 Analyze categorical data ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres')
+    - 2.3 Visualize data distributions ('IMDB Rating', 'Budget', 'Gross Worldwide', 'Runtime') ✅
+    - 2.4 Explore relationships between 'Gross Worldwide' and other variables ✅
+    - 2.5 Analyze categorical data ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres') ✅
     - 2.6 Identify potential issues (missing values, duplicates)<br /><br />
 
 3. Data Cleaning and Preprocessing:
@@ -44,7 +44,7 @@ Several things to note
     - 4.4 Normalize/standardize numerical features if needed<br /><br />
 
 5. Feature Selection:
-    - 5.1 Identify most important features for predicting 'Gross Worldwide' / revenue_usd
+    - 5.1 Identify most important features for predicting 'Gross Worldwide' / revenue_in_usd
     - 5.2 Use correlation analysis or feature importance techniques<br /><br />
 
 6. Natural Language Processing (if applicable):
