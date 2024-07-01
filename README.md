@@ -65,8 +65,8 @@ Several things to note
     - 9.1 Select and apply two unsupervised learning methods
     - 9.2 Analyze and interpret results
     - 9.3 Compare outcomes of different methods
-    - 9.4 Create a feature from this cluster generated and put it into the regression model (NOTE: not necessary)
-    - 9.5 Analyse the result from the new feature you engineered (NOTE: not necessary)   <br /><br />
+    - 9.4 Create a feature from this cluster generated and put it into the regression model
+    - 9.5 Analyse the result from the new feature you engineered  <br /><br />
 
 10. Results and Visualization (based on unsupervised learning):
     - 10.1 Create meaningful visualizations of your findings (e.g., actual vs predicted revenues)
