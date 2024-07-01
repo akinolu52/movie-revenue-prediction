@@ -10,6 +10,7 @@ Several things to note
 - let's write more function so we can re-use it
 - let's keep the function name, Class name and variable name explanatory enough
   <br />
+- let's keep all our import in the second cell
 
 1. Project Setup and Data Collection: ✅
     - 1.1 Set up your Jupyter notebook ✅
