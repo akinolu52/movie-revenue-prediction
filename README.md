@@ -41,17 +41,17 @@ Several things to note
     - 4.1 Encode categorical variables ('Directors', 'Writers', 'Stars', 'Origin Countries', 'Languages', 'Genres' etc)✅
     - 4.2 Extract features from 'Storyline' using NLP techniques (optional)✅
     - 4.3 Create new features if applicable (e.g., director/star popularity, genre combinations) (optional) ✅
-    - 4.4 Normalize/standardize numerical features if needed<br /><br /> 
+    - 4.4 Normalize/standardize numerical features if needed<br /><br />
 
 5. Feature Selection:
-    - 5.1 Identify most important features for predicting 'Gross Worldwide' / revenue_in_usd
-    - 5.2 Use correlation analysis or feature importance techniques<br /><br />
+    - 5.1 Identify most important features for predicting 'Gross Worldwide' / revenue_in_usd ✅
+    - 5.2 Use correlation analysis or feature importance techniques ✅ <br /><br />
 
 6. Natural Language Processing (if applicable):
-    - 6.1 Text data cleaning
-    - 6.2 Tokenization
-    - 6.3 Stop word and punctuation removal
-    - 6.4 Stemming or lemmatization<br /><br />
+    - 6.1 Text data cleaning ✅
+    - 6.2 Tokenization ✅
+    - 6.3 Stop word and punctuation removal ✅
+    - 6.4 Stemming or lemmatization ✅ <br /><br />
 
 7. Model Selection and Training:
     - 7.1 Split data into training and testing sets
