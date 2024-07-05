@@ -58,7 +58,7 @@ Several things to note
     - 7.2 Select and train multiple regression models (e.g., Linear Regression, Random Forest, Gradient Boosting)
     - 7.3 Perform cross-validation<br /><br />
 
-8. Results and Visualization (based on regression models):
+8. Results and Visualization (based on regression model****s):
     - 8.1 Create meaningful visualizations of your findings (e.g., actual vs predicted revenues)
     - 8.2 Interpret and explain results<br /><br />
 
